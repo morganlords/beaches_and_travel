@@ -1,0 +1,27 @@
+p{
+    font-size: medium;
+    font-weight: lighter;
+}
+
+#top{
+    text-decoration: wavy;
+}
+
+body{
+    text-align: center;
+    border: 5px;
+    margin: 0px;
+    padding: 20px;
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+    background-color: rgb(204, 225, 239);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
